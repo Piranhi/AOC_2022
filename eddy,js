@@ -1,0 +1,5 @@
+function eddySaysHeIsTheBest(){
+    console.log("EDDY IS THE BEST!!")
+}
+
+eddySaysHeIsTheBest();
